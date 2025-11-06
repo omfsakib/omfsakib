@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Omar Faruk (omfsakib)
+# Hi there 👋, I'm MD. Omar Faruk (omfsakib)
 
 🚀 **Full Stack Developer | Frappe ERPNext Expert | Django & React Enthusiast**
 
